@@ -15,4 +15,6 @@ Skills: Linux 🐧 / Python 🐍 / Lua 🌙
 
 ![](https://i.vgy.me/8iLs2Z.gif)
 
-![Profile views](https://gpvc.arturio.dev/imonkloud9)  
+![Profile views](https://gpvc.arturio.dev/imonkloud9) 
+
+Show some ❤️ by starring some of the repositories!
