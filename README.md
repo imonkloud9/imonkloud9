@@ -3,7 +3,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imonkloud9&show_icons=true)  
 
-I created my GitHub in hopes of showing for my work, keeping track of my progressive knowledge, and inspiring other individuals to be opened minded while giving them a chance contribute to the community.
+I created my GitHub page in hopes of showing for all of my future work, keeping track of my progressive knowledge, and inspiring other individuals to stay opened minded while giving them a chance contribute something of their own towards the GitHub community. My main goal and motive thus-far is becoming a graduate in cybersecurity with the minimum of a bachelor's degree while maintaining a stable career in freelance. I have gained most of my experience through my shear passion in the field and I can't wait to further my education and knowledge professionally. 🎓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imonkloud9)](https://github.com/anuraghazra/github-readme-stats)
 
