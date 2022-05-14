@@ -10,7 +10,7 @@ I created my GitHub in hopes of showing for my work, keeping track of my progres
 Skills: Linux 🐧 / Python 🐍 / Lua 🌙
 
 - 🔭 I’m currently working on a python project. 
-- 🌱 I’m currently learning web development and furthering knowledge in development. 
+- 🌱 I’m currently furthering my knowledge in programming and web development. 
 - 📫 How to reach me: kloud9@duck.com 
 
 ![](https://i.vgy.me/8iLs2Z.gif)
