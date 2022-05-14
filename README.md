@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Keith!
+#### I'm an all-around tech geek,  a high school student and I love all-things internet. 🌐
 
-<!--
-**imonkloud9/imonkloud9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imonkloud9&show_icons=true)  
 
-Here are some ideas to get you started:
+I created my GitHub in hopes of showing for my work, keeping track of my progressive knowledge, and inspiring other individuals to be opened minded while giving them a chance contribute to the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imonkloud9)](https://github.com/anuraghazra/github-readme-stats)
+
+Skills: Linux 🐧 / Python 🐍 / Lua 🌙
+
+- 🔭 I’m currently working on python project. 
+- 🌱 I’m currently learning web development and furthering knowledge in development. 
+- 📫 How to reach me: kloud9@duck.com 
+
+![](https://i.vgy.me/8iLs2Z.gif)
+
+![Profile views](https://gpvc.arturio.dev/imonkloud9)  
